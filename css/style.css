@@ -64,10 +64,6 @@ nav a:hover{
 }
   /* Requirement 2 code here*/
 
-a {
-    position: absolute;
-}
-
 .skip a{
   background: white;
   left: 0;
@@ -77,13 +73,13 @@ a {
   z-index: 1;
   /* Requirement 3a code here*/
   position: absolute;
-  top: 40px;    
+  bottom: 40px;    
 }
 
 .skip a:focus{
 /* Requirement 3b code here*/
  position: absolute;
- top: 0;   
+ bottom: 0;   
 
 /* Requirement 4 code here*/
  border: 2px solid;
