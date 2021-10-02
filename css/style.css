@@ -64,6 +64,10 @@ nav a:hover{
 }
   /* Requirement 2 code here*/
 
+a {
+    position: absolute;
+}
+
 .skip a{
   background: white;
   left: 0;
