@@ -73,7 +73,8 @@ nav a:hover{
   z-index: 1;
   /* Requirement 3a code here*/
   position: absolute;
-  top: 40px;    
+  top: 40px;
+  border: 2px solid;  
 }
 
 .skip a:focus{
